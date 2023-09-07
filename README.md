@@ -1,4 +1,6 @@
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Listas de Exercícios da disciplina de Programação Orientada a Objetos
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Listas de Exercícios da disciplina de Programação Orientada a Objetos
 
 - Lista 01:TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
  • Cap. 03 (Estrutura Sequencial)
@@ -9,3 +11,14 @@
    • Cap. 06 (Vetor) <br>
    • Cap. 07 (Matriz) <br>
    • Cap. 08 (Sub-rotina)<br>
+
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
+- Isadora Braide da Silva.
+- Isabelle Silva Castello Branco.
+
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Professor:
+- Roger Moura Sarmento.
+
+##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Linguagem utilizada:
+- Java.
+
