@@ -32,4 +32,13 @@ Questão | Enunciado
 
 Questão | Enunciado
 :-----: | :-------:
-**02** | 
+**02** | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+**06** | Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.
+**07** | Faça um programa que receba o peso de uma pessoa, calcule e mostre:a)o novo peso, se a pessoa engordar 15% sobre o peso digitado;b)o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
+**08** | Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
+**11** | Faça um programa que calcule e mostre a área de um losango. Sabe-se que: A = (diagonal maior * diagonal menor)/2.
+**12** | Faça um programa que receba o valor do salário mínimo e o valor do salário de um funcionário, calcule e mostre a quantidade de salários mínimos que esse funcionário ganha.
+**15** | João recebeu seu salário e precisa pagar duas contas atrasadas. Em razão do atraso, ele deverá pagar multa de 2% sobre cada conta. Faça um programa que calcule e mostre quanto restará do salário de João.
+**23** | Faça um programa que receba a medida de dois ângulos de um triângulo, calcule e mostre a medida do terceiro ângulo. Sabe-se que a soma dos ângulos de um triângulo é 180 graus.
+**24** | Faça um programa que receba a quantidade de dinheiro em reais que uma pessoa que vai viajar possui. Ela vai passar por vários países e precisa converter seu dinheiro em dólares, marco alemão e libra esterlina. Sabe-se que a cotação do dólar é de R$ 1,80; do marco alemão, de R$ 2,00; e da libra esterlina, de R$ 3,57. O programa deve fazer as conversões e mostrá-las.
+**25** | Faça um programa que receba uma hora (uma variável para hora e outra para minutos), calcule e mostre:a) a hora digitada convertida em minutos;b) o total dos minutos, ou seja, os minutos digitados mais a conversão anterior;c) o total dos minutos convertidos em segundos.
