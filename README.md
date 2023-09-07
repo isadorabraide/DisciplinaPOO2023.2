@@ -1,4 +1,4 @@
-# Lista de Exercícios da disciplina de Programação Orientada a Objetos
+# Listas de Exercícios da disciplina de Programação Orientada a Objetos
 
 - Lista 01:TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente). <br>
  • Cap. 03 (Estrutura Sequencial)
