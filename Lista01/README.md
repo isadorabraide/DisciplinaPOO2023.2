@@ -12,11 +12,7 @@ Questão | Enunciado
 **08** | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
 **09** | Faça um programa que calcule e mostre a área de um triângulo. Sabe-se que: Área = (base * altura)/2.
 **10** | Faça um programa que calcule e mostre a área de um círculo. Sabe-se que: Área = p * R2.
-**11** | Faça um programa que receba um número positivo e maior que zero, calcule e mostre:
-a) | o número digitado ao quadrado;
-b) | o número digitado ao cubo;
-c) | a raiz quadrada do número digitado;
-d) | a raiz cúbica do número digitado.
+**11** | Faça um programa que receba um número positivo e maior que zero, calcule e mostre: a)o número digitado ao quadrado;b)o número digitado ao cubo;c)a raiz quadrada do número digitado; a raiz cúbica do número digitado.
 **12** | Faça um programa que receba dois números maiores que zero, calcule e mostre um elevado ao outro.
 **13** | Sabe-se que:pé = 12 polegadas,1 jarda = 3 pés,1 milha = 1,760 jarda.Faça um programa que receba uma medida em pés, faça as conversões a seguir e mostre os resultados.
 a) | polegadas;
