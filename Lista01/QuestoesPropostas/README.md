@@ -2,7 +2,7 @@
 
 Questão | Enunciado
 :-----: | :-------:
-[**02**](https://github.com/isadorabraide/DisciplinaPOO2023.2/blob/main/Lista01/Q2P/src/br/edu/principal/Principal.java) | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
+[**02**](https://github.com/isadorabraide/DisciplinaPOO2023.2/blob/main/Lista01/QuestoesPropostas/Q11P/src/br/edu/principal/Principal.java) | Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
 [**06**](https://github.com/isadorabraide/DisciplinaPOO2023.2/blob/main/Lista01/Q6P/src/br/edu/principal/Principal.java) | Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.
 [**07**](https://github.com/isadorabraide/DisciplinaPOO2023.2/blob/main/Lista01/Q7P/src/br/edu/principal/Principal.java) | Faça um programa que receba o peso de uma pessoa, calcule e mostre:a)o novo peso, se a pessoa engordar 15% sobre o peso digitado;b)o novo peso, se a pessoa emagrecer 20% sobre o peso digitado.
 [**08**](https://github.com/isadorabraide/DisciplinaPOO2023.2/blob/main/Lista01/Q8P/src/br/edu/principal/Principal.java) | Faça um programa que receba o peso de uma pessoa em quilos, calcule e mostre esse peso em gramas.
