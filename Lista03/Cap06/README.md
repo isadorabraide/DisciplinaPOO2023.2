@@ -1,4 +1,4 @@
-#    Lista de Questões Resolvidas 
+#    Lista de Questões do Capítulo 6
 
 Questão | Enunciado
 :--------: | :-----------:
