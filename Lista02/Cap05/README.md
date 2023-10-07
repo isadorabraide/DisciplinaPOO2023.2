@@ -69,8 +69,37 @@ Questão | Enunciado
 :------:| :----------:
 [**15**](https://github.com/isadorabraide/DisciplinaPOO2023.2/blob/main/Lista02/Cap05/QuestoesResolvidas/Q15R/src/br/edu/principal/Principal.java) | Faça um programa que receba o preço unitário, a refrigeração (S para os produtos que necessitem de refrigeração e N para os que não necessitem) e a categoria (A — alimentação; L — limpeza; e V —vestuário) de doze produtos, e que calcule e mostre:O custo de estocagem, calculado de acordo com a tabela a seguir.
 
-preço unitário | refrigeração | categoria | custo de estocagem
-:------:| :----------: | :-----: | :------:
+| Preço Unitário | Refrigeração | Categoria | Custo de Estocagem |
+|----------------|--------------|-----------|--------------------|
+|                | -  | A |  R$ 2,00  |            |
+|      Até 20    | -  | L |  R$ 3,00  |
+|                | - | V |  R$ 4,00  |
+|----------------|--------------|-----------|--------------------|
+| Entre 20 e 50  | S | -  |  R$ 6,00  |             |
+|                | N | -  |  R$ 0,00  |             |
+|----------------|--------------|-----------|--------------------|
+|                |   | A |  R$ 5,00  |             |
+|                | S | L |  R$ 2,00  |             |
+| Maior que 50   |   | V |  R$ 4,00  |             |
+|                |   |   |           |             |
+|                | N | A ou V | R$ 0,00 |          |
+|                |   | L |  R$ 1,00  |             |
+|                |   |   |           |             |
+
+- O imposto calculado de acordo com as regras a seguir:
+- Se o produto não preencher nenhum dos requisitos a seguir, seu imposto será de 2% sobre o preço unitário; caso contrário, será de 4%.
+- Os requisitos são: categoria — A e refrigeração — S.
+- O preço final, ou seja, preço unitário mais custo de estocagem mais imposto.
+- A classificação calculada usando a tabela a seguir.
+
+preço final  | classificação
+:------:| :----------:
+Até R$ 20,00 | Barato
+Entre R$ 20,00 e R$ 100,00 (inclusive) | Normal
+Acima de R$ 100,00 | Caro
+
+- A média dos valores adicionais, ou seja, a média dos custos de estocagem e dos impostos dos doze
+produtos;O maior preço final;O menor preço final.O total dos impostos;A quantidade de produtos com classificação barato;A quantidade de produtos com classificação caro;A quantidade de produtos com classificação normal.
 
 Questão | Enunciado
 :------:| :----------:
@@ -125,6 +154,15 @@ Até R$ 100,00 | 5%
 Maior que R$ 100,00 | 10%
 
 - O valor do transporte usando a tabela a seguir.
+
+| Carga Perigosa | País de Origem | Valor do Transporte |
+|----------------|----------------|--------------------|
+| S              | 1              | R$ 50,00           |
+|                | 2              | R$ 21,00           |
+|                | 3              | R$ 24,00           |
+| N              | 1              | R$ 12,00           |
+|                | 2              | R$ 21,00           |
+|                | 3              | R$ 60,00           |
 
 - O valor do seguro, usando a regra a seguir.
 -Os produtos que vêm do México e os produtos que utilizam transporte aéreo pagam metade do valor do seu preço unitário como seguro.
